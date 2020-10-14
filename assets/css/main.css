@@ -1480,6 +1480,9 @@ input, select, textarea {
 
 		}
 
+#myLocalImg {
+}
+
 		@media screen and (max-width: 736px) {
 
 			.row {
